@@ -44,14 +44,6 @@ I am a developer specializing in Artificial Intelligence, machine learning pipel
 ### 📊 Problem Solving & Data Science
 
 <div align="center">
-  <!-- Dynamic LeetCode Stats Card -->
-  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Syne&ext=heatmap" alt="LeetCode Stats" />
-  </a>
-</div>
-<br>
-<div align="center">
-  <!-- Kaggle & LeetCode Profile Badges -->
   <a href="https://www.kaggle.com/YOUR_KAGGLE_USERNAME" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle Profile" />
   </a>
